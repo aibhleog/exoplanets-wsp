@@ -2,7 +2,7 @@
 
 This is a 1-week exoplanet research project originally created by astronomers at MIT which has since been HEAVILY modified and refined by Taylor Hutchison, who has used it to teach veterans from 2018-2021 as part of the Warrior Scholar Project ([warrior-scholar.org](warrior-scholar.org)).
 
-Check out the [order of notebooks](order-of-notebooks.txt) to see the recommended order to run through for the week.  Also, in my experience helping the students install python on their computers was often non-trivial -- during the pandemic (i.e., starting 2020) we shifted to using [Google Colab](https://colab.research.google.com/) for this work, which kind of acts like a Google Doc but for ipython notebooks.  So it runs in your browser and others can view your work too (which was very helpful when trying to troubleshoot code with a student).
+Check out the [order of notebooks](order-of-notebooks.md) to see the recommended order to run through for the week.  Also, in my experience helping the students install python on their computers was often non-trivial -- during the pandemic (i.e., starting 2020) we shifted to using [Google Colab](https://colab.research.google.com/) for this work, which kind of acts like a Google Doc but for ipython notebooks.  So it runs in your browser and others can view your work too (which was very helpful when trying to troubleshoot code with a student).
 
 
 -------------
